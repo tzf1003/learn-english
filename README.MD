@@ -6,7 +6,7 @@
 
 ## 正在实现的版块：
 
-- [英语语法学习](https://gitee.com/luohuaren/learn-english/blob/master/英语语法学习.md)
+- [英语语法学习](../master/英语语法学习.md)
 
 ## 未来将实现的版块：
 
